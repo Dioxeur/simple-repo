@@ -2,7 +2,7 @@ import os
 
 
 def table(a):
-    return a * 3
+    return a * 4
 
 
 print(table(4))
